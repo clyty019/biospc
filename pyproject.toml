@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "biospc"
 version = "0.1.0"
-description = "Bio-SPC: 基于单细胞数据寻找拟时间轨迹断崖点的 Python 库"
+description = "biospc"
 readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
@@ -39,5 +39,5 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/your-username/biospc"
-Repository = "https://github.com/your-username/biospc"
+Homepage = "https://github.com/clyty019/biospc"
+Repository = "https://github.com/clyty019/biospc"
